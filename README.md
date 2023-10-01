@@ -9,3 +9,5 @@ After acquiring dataset needed from the business or other resources such as kagg
 First, import machine learning classification libraries and train model. Use fit method on model in order to fit model in training dataset. The model will find correlation within the parameters and be able to predict churn values for new and unseen data. Then find accuracy using accuracy_score method. Repeat this for all selected models.
 #### Step 5; Model Evaluation
 Compare trained models according to accuracy by creating panda dataframe to figure out what is the best model to be used. 
+
+Dataset used: https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
